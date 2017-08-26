@@ -11,7 +11,7 @@
   "urls": {
     "site": "https://millserd.github.io",
     "hubpress": "https://millserd.github.io",
-    "theme": "//millserd.github.io/themes/casper",
+    "theme": "//millserd.github.io/themes/uno",
     "images": "https://millserd.github.io/images"
   },
   "initialisationConfigComponent": {
@@ -43,7 +43,7 @@
     "instagram": "",
     "pinterest": "",
     "flickr": "",
-    "linkedin": "Na",
+    "linkedin": "",
     "stackoverflow": ""
   }
 }
