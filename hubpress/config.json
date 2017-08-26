@@ -2,10 +2,11 @@
   "meta": {
     "username": "millserd",
     "repositoryName": "millserd.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
-    "name": "casper"
+    "name": "uno"
   },
   "urls": {
     "site": "https://millserd.github.io",
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "",
+    "description": "Opensource, Technology and Accessibility",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "4",
+    "googleAnalytics": "",
+    "disqus": "millserd"
+  },
+  "socialnetwork": {
+    "email": "jasonasmills@gmail.com",
+    "github": "https://github.com/millserd",
+    "twitter": "https://twitter.com/millserd",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "Na",
+    "stackoverflow": ""
   }
 }
